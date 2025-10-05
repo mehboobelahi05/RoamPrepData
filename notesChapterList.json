@@ -1,0 +1,90 @@
+[
+  {
+    "name": "General Studies",
+    "sub_chapters": [
+      {
+        "name": "[[Ladakh GK]]"
+      },
+      {
+        "name": "[[KSSRB GS 2024 | by Elahi]]"
+      },
+      {
+        "name": "Polity",
+        "sub_chapters": [
+          {
+            "name": "[[Important Bodies]]"
+          },
+          {
+            "name": "[[Constituent Assembly]]"
+          },
+          {
+            "name": "[[Preamble]]"
+          },
+          {
+            "name": "[[Fundamental Rights]]"
+          },
+          {
+            "name": "[[Fundamental Duties]]"
+          },
+          {
+            "name": "[[Union Territories]]"
+          },
+          {
+            "name": "[[Parliament]]"
+          }
+        ]
+      },
+      {
+        "name": "History",
+        "sub_chapters": [
+          {
+            "name": "[[Harappan Civilization]]"
+          },
+          {
+            "name": "[[Buddhism]]"
+          },
+          {
+            "name": "[[Maurya Empire]]"
+          },
+          {
+            "name": "[[Social Reforms]]"
+          },
+          {
+            "name": "[[Arrival of Europeans In India]]"
+          },
+          {
+            "name": "[[INC Sessions]]"
+          }
+        ]
+      },
+      {
+        "name": "Geography",
+        "sub_chapters": [
+          {
+            "name": "[[River Systems]]"
+          },
+          {
+            "name": "[[Map Based Locations]]"
+          }
+        ]
+      },
+      {
+        "name": "[[International Groupings]]"
+      },
+      {
+        "name": "[[National Symbols]]"
+      },
+      {
+        "name": "[[Art and Culture]]"
+      }
+    ]
+  },
+  {
+    "name": "Grammer",
+    "sub_chapters": [
+      {
+        "name": "[[60 Important Rules of Grammar | By Rani Maam]]"
+      }
+    ]
+  }
+]

@@ -1,0 +1,266 @@
+[
+  {
+    "name": "Ladakh"
+  },
+  {
+    "name": "KSSRB Exam",
+    "sub_chapters": [
+      {
+        "name": "KSSRB Exam (Graduate) 2024"
+      },
+      {
+        "name": "KSSRB Exam (10+2 Level) 2024"
+      },
+      {
+        "name": "KSSRB Exam (10th Level) 2024"
+      },
+      {
+        "name": "KSSRB Exam (Graduate) 2023"
+      },
+      {
+        "name": "KSSRB Exam (10th Level) 2023 Session 1"
+      },
+      {
+        "name": "KSSRB Exam (Graduate) 2019"
+      }
+    ]
+  },
+  {
+    "name": "General Studies",
+    "sub_chapters": [
+      {
+        "name": "Ladakh"
+      },
+      {
+        "name": "Polity",
+        "sub_chapters": [
+          {
+            "name": "Constituent Assembly"
+          },
+          {
+            "name": "Article"
+          },
+          {
+            "name": "PARTs of Constitution"
+          },
+          {
+            "name": "Constitutional Body"
+          },
+          {
+            "name": "Preamble"
+          },
+          {
+            "name": "Fundamental Rights"
+          },
+          {
+            "name": "Fundamental Duties"
+          },
+          {
+            "name": "Union Territories"
+          },
+          {
+            "name": "Parliament"
+          },
+          {
+            "name": "symbols"
+          }
+        ]
+      },
+      {
+        "name": "History",
+        "sub_chapters": [
+          {
+            "name": "Harappan Civilization"
+          },
+          {
+            "name": "Buddhism"
+          },
+          {
+            "name": "Jainism"
+          },
+          {
+            "name": "Maurya Empire"
+          },
+          {
+            "name": "Gupta dynasty"
+          },
+          {
+            "name": "Delhi Sultanate"
+          },
+          {
+            "name": "Mughals"
+          },
+          {
+            "name": "Social Reforms"
+          },
+          {
+            "name": "Arrival of Europeans In India"
+          },
+          {
+            "name": "British Rule",
+            "sub_chapters": [
+              {
+                "name": "governor-general"
+              },
+              {
+                "name": "Indian National Congress",
+                "sub_chapters": [
+                  {
+                    "name": "INC Sessions"
+                  }
+                ]
+              },
+              {
+                "name": "freedom movement"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Geography",
+        "sub_chapters": [
+          {
+            "name": "River"
+          },
+          {
+            "name": "Mountains and Peaks"
+          },
+          {
+            "name": "Environment",
+            "sub_chapters": [
+              {
+                "name": "Wildlife"
+              },
+              {
+                "name": "Protected Area"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Economy"
+      },
+      {
+        "name": "International Groupings"
+      },
+      {
+        "name": "Science",
+        "sub_chapters": [
+          {
+            "name": "Physics"
+          },
+          {
+            "name": "Chemistry"
+          },
+          {
+            "name": "Biology"
+          }
+        ]
+      },
+      {
+        "name": "Dances"
+      }
+    ]
+  },
+  {
+    "name": "Aptitude",
+    "sub_chapters": [
+      {
+        "name": "Number System"
+      },
+      {
+        "name": "LCM and HCF"
+      },
+      {
+        "name": "Percentage"
+      },
+      {
+        "name": "Profit and Loss"
+      },
+      {
+        "name": "Time and Work"
+      },
+      {
+        "name": "Average"
+      },
+      {
+        "name": "Problem on Ages"
+      },
+      {
+        "name": "Time Speed and Distance"
+      }
+    ]
+  },
+  {
+    "name": "English",
+    "sub_chapters": [
+      {
+        "name": "Synonyms and Antonym"
+      },
+      {
+        "name": "Idioms"
+      },
+      {
+        "name": "Spelling Error"
+      },
+      {
+        "name": "Active Passive"
+      },
+      {
+        "name": "Direct Indirect"
+      },
+      {
+        "name": "Tenses"
+      },
+      {
+        "name": "Noun"
+      },
+      {
+        "name": "Preposition"
+      },
+      {
+        "name": "Passage Based"
+      }
+    ]
+  },
+  {
+    "name": "Reasoning",
+    "sub_chapters": [
+      {
+        "name": "Number Series"
+      },
+      {
+        "name": "Alphabetical Analogy"
+      },
+      {
+        "name": "Number Analogy"
+      },
+      {
+        "name": "Coding Decoding"
+      },
+      {
+        "name": "Word Analogy"
+      },
+      {
+        "name": "Paragraph Based"
+      },
+      {
+        "name": "Direction Based"
+      },
+      {
+        "name": "Shape Based Reasoning"
+      },
+      {
+        "name": "Blood Relations"
+      },
+      {
+        "name": "Calendar"
+      },
+      {
+        "name": "Syllogism"
+      }
+    ]
+  }
+]
